@@ -1,0 +1,22 @@
+.list_item {
+    height: 35px;
+    line-height: 35px;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #F8F8F8;
+    border-radius: 5px;
+    margin-top: 5px !important;
+    /*margin-right: -30px !important;*/
+}
+
+.list_info {
+    text-align: center;
+}
+
+.btn_edit {
+    color: #aaaaaa;
+}
+
+.btn_delete {
+    cursor: pointer;
+}

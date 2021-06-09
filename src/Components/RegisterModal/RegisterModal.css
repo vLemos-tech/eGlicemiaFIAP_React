@@ -1,0 +1,29 @@
+.register_header {
+    font-size: 22px !important;
+    background-color: #C4C4C4;
+    justify-content: right !important;
+}
+
+.register_arrow {
+    cursor: pointer;
+}
+
+.register_title {
+    margin-left: 15px;
+    font-size: 26px !important;
+    font-weight: 700 !important;
+}
+
+.register_form {
+    display: flex;
+    flex-direction: column;
+}
+
+.register_info {
+    margin-bottom: 15px;
+}
+
+.btn_add {
+    margin: 5px auto;
+    width: 140px !important;
+}

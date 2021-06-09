@@ -1,0 +1,12 @@
+.container_home {
+  max-width: 720px !important;
+  height: 100vh;
+  position: relative;
+  background-color: white !important;
+}
+
+.wrapper_tab {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}

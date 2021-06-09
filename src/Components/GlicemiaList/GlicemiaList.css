@@ -1,0 +1,47 @@
+.list_header {
+    background-color: #E3E3E3;
+    margin-top: 10px !important;
+    height: 48px;
+    border-radius: 8px;
+}
+
+.list_header_title {
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.list_itens {
+    max-height: 55vh !important;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.connecting_waiting {
+    display: flex;
+    justify-content: center;
+    margin: 15px 15px;
+}
+
+.message_error {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.list_add {
+    justify-content: center;
+    margin-top: 10px !important;
+}
+
+.btn-add {
+    line-height: normal !important;
+    font-size: 25px !important;
+    width: 50px !important;
+    height: 50px;
+    background-color: #C4C4C4 !important;
+    border-radius: 100% !important;
+    border: 2px solid black !important;
+}

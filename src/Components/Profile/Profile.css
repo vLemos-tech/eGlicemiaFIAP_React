@@ -1,0 +1,45 @@
+.container_profile {
+  background-color: #C4C4C4;
+  border-radius: 0 0 5px 5px;
+}
+
+.profile_title {
+  font-size: 2vw;
+  padding-left: 45px !important;
+  align-self: center;
+}
+
+.profile_greeting {
+  color: black;
+}
+
+.profile_nickname {
+  font-weight: 700;
+}
+
+.wrapper_image {
+  padding: 12px;
+}
+
+.wrapper_image img {
+    border: 3px solid #9F9F9F;
+}
+
+
+/* Configuração para responsividade */
+
+@media (max-width: 600px) {
+  .profile_title {
+    font-size: 4.5vw;
+    padding-left: 30px !important;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 1200px) {
+  .profile_title {
+    font-size: 3vw;
+    padding-left: 35px !important;
+  }
+}
+
+
